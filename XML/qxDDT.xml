@@ -1,0 +1,37 @@
+<questionnaire>
+	<question>
+		<intitule >Quel est le rôle de la DDT dans la procédure de création d'une Zone de Développement Éolien ?</intitule>
+		<reponse j="m">identifier les enjeux patrimoniaux</reponse>
+		<reponse j="b">identifier les enjeux urbanistiques</reponse>
+		<reponse j="m">identifier les enjeux économiques</reponse>
+		<reponse j="m">instruire la demande de permis de construire</reponse>
+	</question>
+	<question>
+		<intitule >Quel est le rôle des services territoriaux de l'aviation civile dans un projet de parc éolien ?</intitule>
+		<reponse j="m">vérifier que le site ne contient pas de monuments historiques</reponse>
+		<reponse j="m">vérifier la conformité du dossier de permis de construire</reponse>
+		<reponse j="b">vérifier la conformité aux servitudes et aux règles aéronautiques</reponse>
+		<reponse j="m">modifier le Plan Local d'Urbanisme (PLU)</reponse>
+	</question>
+	<question>
+		<intitule >Une éolienne construite trop près d'une route présente plusieurs risques. Dans les 4 propositions suivantes, un seul type de risque n'existe pas. Lequel ?</intitule>
+		<reponse j="b">un assourdissement des conducteurs passants à proximité</reponse>
+		<reponse j="m">la chute de blocs de glace formés sur les pales</reponse>
+		<reponse j="m">le détachement d'une partie de pale</reponse>
+		<reponse j="m">la chute d'une éolienne</reponse>
+	</question>
+	<question>
+		<intitule >Quel est le rôle du Service Départemental d'Incendie et de Secours (SDIS) ?</intitule>
+		<reponse j="m">choisir les entreprises qui construisent les parcs éoliens</reponse>
+		<reponse j="m">rédiger les études d'impact des parcs éoliens</reponse>
+		<reponse j="m">coordonner les secours en cas d'accident</reponse>
+		<reponse j="b">donner un avis sur la sécurité par rapport aux éoliennes</reponse>
+	</question>
+	<question>
+		<intitule >Si un projet de parc éolien se trouve dans un site protégé, quelle entité délivre un avis conforme ou non ?</intitule>
+		<reponse j="b">l'Architecte des Bâtiments de France</reponse>
+		<reponse j="m">l'entreprise en charge du projet</reponse>
+		<reponse j="m">la Commission Départementale de la Nature, du Paysage et des Sites</reponse>
+		<reponse j="m">la Direction Régionale de l'Environnement, de l'Aménagement et du Logement</reponse>
+	</question>
+</questionnaire>

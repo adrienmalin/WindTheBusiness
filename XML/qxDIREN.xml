@@ -1,0 +1,37 @@
+<questionnaire>
+	<question>
+		<intitule >Lors de la création d'une Zone de Développement Éolien, sur la thématique de la protection des paysages, la DREAL (avec l'ex-DIREN) est assistée par une entité. Laquelle ?</intitule>
+		<reponse j="b">le SDAP (Service Départemental de l'Architecture et du Patrimoine)</reponse>
+		<reponse j="m">l'INP (Institut National du Patrimoine)</reponse>
+		<reponse j="m">les services patrimoines des DIR</reponse>
+		<reponse j="m">les communes concernées</reponse>
+	</question>
+	<question>
+		<intitule >Quel est le rôle de la DIREN dans la procédure d'obtention du permis de construire un parc éolien ?</intitule>
+		<reponse j="m">rédiger l'étude d'impact</reponse>
+		<reponse j="m">délivrer le permis de construire</reponse>
+		<reponse j="b">donner un avis sur l'étude d'impact</reponse>
+		<reponse j="m">lancer l'enquête publique</reponse>
+	</question>
+	<question>
+		<intitule >Quel est le rôle de la DIREN dans la création d'une Zone de Développement Éolien ?</intitule>
+		<reponse j="b">identifier les enjeux patrimoniaux</reponse>
+		<reponse j="m">déposer la demande de permis de construire</reponse>
+		<reponse j="m">identifier les enjeux économiques</reponse>
+		<reponse j="m">conseiller et informer sur les éoliennes</reponse>
+	</question>
+	<question>
+		<intitule >Qu'est-ce qu'une zone Natura 2000 ?</intitule>
+		<reponse j="b">un site naturel ayant une grande valeur patrimoniale</reponse>
+		<reponse j="m">un site naturel recensé en 2000</reponse>
+		<reponse j="m">un site naturel où on peut implanter des éoliennes</reponse>
+		<reponse j="m">un site naturel menacé</reponse>
+	</question>
+	<question>
+		<intitule >Parmi ces différentes propositions, lequel de ces chapitres n'est pas présent dans une étude d'impact de parc éolien ?</intitule>
+		<reponse j="m">l'évaluation de l'impact du projet</reponse>
+		<reponse j="m">l'état initial de l'environnement physique</reponse>
+		<reponse j="m">l'état initial de l'environnement écologique</reponse>
+		<reponse j="b">l'évaluation de l'impact touristique pour la commune concernée</reponse>
+	</question>
+</questionnaire>

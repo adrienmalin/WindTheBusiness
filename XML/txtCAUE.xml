@@ -1,0 +1,27 @@
+﻿<Repliques>
+	<Atelier>
+	<!-- Pour chaque contrainte dans les cartes, créer une balise avec son nom (le même que donné comme nom d'occurence dans la carte) et indiquer le texte de l'acteur à afficher. -->
+		<covisiMH>Il est interdit de construire ici : il y a atteinte à la visibilité d'un Monument Historique</covisiMH>
+		<sitPRO>Il est interdit de construire ici : vous vous trouvez sur un site présentant un intérêt du point de vue scientifique, historique, pittoresque ou légendaire</sitPRO>
+		<invitation>Venez donc au Conseil d'Architecture, d'Urbanisme et d'Environnement pour discuter de votre projet. Je peux vous donner une carte concernant les zones d'atteinte à la visibilité des Monuments Historiques et les sites protégés.</invitation>
+	</Atelier>
+	<Questionnaire>
+	<!-- Répliques de la phase Questionnaire -->
+		<Proc>
+		<!-- Répliques des questions de procédure -->
+			<intro>Bonjour cher joueur, je suis monsieur Roland. Je travaille au sein du Conseil d'Architecture, d'Urbanisme et d'Environnement. Nous aussi, nous intervenons dans la procédure d'obtention du permis de conduire pour les parcs éoliens, pour veiller au respect de la visibilité des Monuments Historiques et des différents sites protégés existants. Voyons un peu si vous connaissez la procédure.Si vous le voulez bien, nous allons commencer par le questionnaire de procédure de la CAUE. C'est parti !</intro>
+			<correct>Bonne réponse.</correct>
+			<faux>Oups, ce n'est pas la bonne réponse. Celle-ci s'affiche en vert.</faux>
+			<bonScore>Félicitations ! Vous avez su utiliser vos connaissances pour obtenir un bon score à ce questionnaire de procédure. Vous maitrisez le domaine et votre projet semble plus que solide. Nous sommes heureux de vous délivrer un avis favorable pour la demande de permis de construire dans le cadre de votre projet de parc éolien.</bonScore>
+			<mauvaisScore>Dommage, vous n'avez pas obtenu un score suffisant à ce questionnaire de procédure. Essayez de consolider vos connaissances pour les prochains questionnaires. Nous sommes dans l'obligation de vous donner un avis défavorable pour le projet. Néanmoins, rien n'est joué, allez donc rencontrer les autres acteurs du projet. Bon courage !</mauvaisScore>
+		</Proc>
+		<EnR>
+		<!-- Répliques des questions sur les énergies renouvelables -->
+			<intro>Vous pouvez maintenant tenter d'obtenir la carte des sites protégés et de la visibilité des monuments historiques. Cela pourra vous être utile dans votre projet.</intro>
+			<correct>Tout à fait, vous semblez à l'aise avec cette thématique</correct>
+			<faux>Désolé, vous ne marquez pas de point à cette question. La bonne réponse s'affiche en vert</faux>
+			<bonScore>Félicitations ! Vous semblez maîtriser cette thématique, votre joli score est donc mérité. Grâce à votre performance, nous avons le plaisir de vous délivrer la carte d'accès. Elle permettra de révéler les routes, et la distance minimale à respecter sur la carte-projet de votre bureau d'études.</bonScore>
+			<mauvaisScore>Aïe, vous avez obtenu un score trop faible à ce questionnaire Énergies Renouvelables. Vous ne gagnez donc pas la carte d'accès des routes. Vous pourrez néanmoins en gagner d'autres en allant rencontrer les autres acteurs. Bon courage !</mauvaisScore>
+		</EnR>
+	</Questionnaire>
+</Repliques>

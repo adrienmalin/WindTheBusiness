@@ -1,0 +1,37 @@
+<questionnaire>
+	<question>
+		<intitule >Dans le cadre d'un projet éolien, quel argument utilisé pour un avis défavorable est le plus fréquemment utilisé ?</intitule>
+		<reponse j="m">le non-respect des espaces de respiration</reponse>
+		<reponse j="m">l'impact sur l'avifaune (emplacement prévu dans un couloir migratoire)</reponse>
+		<reponse j="b">l'impact sur le paysage</reponse>
+		<reponse j="m">l'impact sur la santé des populations proches</reponse>
+	</question>
+	<question>
+		<intitule >Lorsqu'une commune est concernée par un projet d'implantation d'éoliennes et qui possèdent un PLU (Plan Local d'Urbanisme), les éoliennes sont autorisées :</intitule>
+		<reponse j="m">dans les parcs photovoltaïques</reponse>
+		<reponse j="m">dans les zones commerciales</reponse>
+		<reponse j="b">dans les zones agricoles</reponse>
+		<reponse j="m">dans les zones industrielles</reponse>
+	</question>
+	<question>
+		<intitule >L'arrêté du 8 juin 2001 institue une obligation d'achat par EDF de l'électricité produite par les éoliennes des parcs éoliens. Mais pour combien de temps ?</intitule>
+		<reponse j="m">1 an</reponse>
+		<reponse j="m">5 ans</reponse>
+		<reponse j="m">10 ans</reponse>
+		<reponse j="b">15 ans</reponse>
+	</question>
+	<question>
+		<intitule >Quelle est la distance minimale qu'il doit y avoir entre une route et une éolienne (dans le cas d'une route départementale) ?</intitule>
+		<reponse j="m">20 mètres</reponse>
+		<reponse j="m">50 mètres</reponse>
+		<reponse j="b">100 mètres</reponse>
+		<reponse j="m">250 mètres</reponse>
+	</question>
+	<question>
+		<intitule >Quel document fait référence dans une procédure d'obtention de permis de construire ?</intitule>
+		<reponse j="m">le code du travail</reponse>
+		<reponse j="b">le code de l'urbanisme</reponse>
+		<reponse j="m">le code de construction et de l'habitation</reponse>
+		<reponse j="m">le plan local d'urbanisme (PLU)</reponse>
+	</question>
+</questionnaire>

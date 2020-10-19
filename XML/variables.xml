@@ -1,0 +1,16 @@
+<!-- Ne modifier que les nombres entre les balises ! -->
+<variables>
+	<nbCartes>		1	</nbCartes>			<!-- Nombre de cartes dans le répertoire Cartes -->
+	<nbQuestionsProc>	5	</nbQuestionsProc>		<!-- Nombre de questions de procédures (1ère phase des questionnaires pour gagner l'avis favorable de l'acteur) -->
+	<nbQuestionsEnR>	5	</nbQuestionsEnR>		<!-- Nombre de questions sur les énergies renouvelables (2e phase des questionnaires pour gagner la carte de l'acteur) -->
+	<nbQuestionsADEME>	10	</nbQuestionsADEME>		<!-- Nombre de questions posées par l'ADEME (permettant d'obtenir des éoliennes supplémentaires -->
+	<nbEol>			5	</nbEol>			<!-- Nombre d'éoliennes à placer sur la carte que possède le joueur au départ -->
+	<nbAvisFavMin>		4	</nbAvisFavMin>			<!-- Nombre minmum d'avis favorables pour que la Préfecture accorde le permis de construire -->
+	<scoreMin>		0.5	</scoreMin>			<!-- Score minimum au questionnaire pour gagner l'avis favorable ou la carte. scoreMin doit être compris entre 0 (le joueur gagne même s'il a répondu tout faux) et 1 (le joueur gagne s'il a répondu bon à toutes les questions). -->
+	<probaAvisFav>		0.3	</probaAvisFav>			<!-- La probabilité qu'un acteur donne un avis favorable si le joueur ne vient pas le visiter -->
+	<puissanceCreteMoyenne>	3	</puissanceCreteMoyenne>	<!-- La puissance crète moyenne d'une éolienne -->
+	<energieMoyenneAnnuelle>440	</energieMoyenneAnnuelle>	<!-- L'énergie moyenne produite annuellement par une éolienne -->
+	<prixRachatKWh>		83.8	</prixRachatKWh>		<!-- Le prix de rachat de l'électricité produite par un parc éolien par EDF au kWh -->
+	<CO2Economise>		825	</CO2Economise>			<!-- L'économie de gaz à effet de serre en tonne équivalent CO2 par éolienne -->
+	<distanceMin>		80	</distanceMin>			<!-- La distance minimum entre 2 éoliennes sur la carte en pixel (la hauteur de l'éolienne dessinée dans le jeu est de 83 pixels) -->
+</variables>

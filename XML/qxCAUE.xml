@@ -1,0 +1,37 @@
+<questionnaire>
+	<question>
+		<intitule >Qu'est-ce que le CAUE ?</intitule>
+		<reponse j="m">la Commission d'Architecture, d'Urbanisme et de l'Énergie</reponse>
+		<reponse j="m">le Comité des Architectes, des Urbanistes et des Entrepreneurs</reponse>
+		<reponse j="m">le Conseil d'Aménagement, d'Urbanisme et de l'Énergie</reponse>
+		<reponse j="b">le Conseil d'Architecture, d'Urbanisme et de l'Environnement</reponse>
+	</question>
+	<question>
+		<intitule >De quel organisme le CAUE fait-il partie ?</intitule>
+		<reponse j="b">la Commission Départementale de la Nature, des Paysages et des Sites (CDNPS)</reponse>
+		<reponse j="m">la Service Départemental de l'Architecture et du Patrimoine (SDAP)</reponse>
+		<reponse j="m">l'Institut National du Patrimoine (INP)</reponse>
+		<reponse j="m">l'Agence De l'Environnement et de la Maîtrise de l'Énergie (ADEME)</reponse>
+	</question>
+	<question>
+		<intitule >Quel est le rôle du CAUE ?</intitule>
+		<reponse j="m">organiser l'enquête publique</reponse>
+		<reponse j="m">instruire les permis de construire</reponse>
+		<reponse j="m">garantir la préservation de la biodiversité</reponse>
+		<reponse j="b">donner un avis sur les autorisations de Zones de Développement Éolien</reponse>
+	</question>
+	<question>
+		<intitule >Le CAUE étudie de nombreux aspects du dossier lors d'un projet éolien. Parmi ces 4 propositions, de quelle question le conseil ne s'occupe pas ?</intitule>
+		<reponse j="m">les paysages remarquables</reponse>
+		<reponse j="b">les retombées économiques</reponse>
+		<reponse j="m">l'intégration au bâti</reponse>
+		<reponse j="m">les espaces de respiration</reponse>
+	</question>
+	<question>
+		<intitule >Dans le dossier du pétitionnaire, le CAUE étudie tous les outils développés et intégrés au dossier. Lequel de ces 4 outils ne figure pas dans le dossier ?</intitule>
+		<reponse j="b">des plans cadastraux</reponse>
+		<reponse j="m">des coupes topographiques</reponse>
+		<reponse j="m">des photo-montages</reponse>
+		<reponse j="m">des cartes de visibilité</reponse>
+	</question>
+</questionnaire>

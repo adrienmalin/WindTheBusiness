@@ -1,0 +1,30 @@
+﻿<Repliques>
+	<Atelier>
+	<!-- Pour chaque contrainte dans les carte, créer une balise avec son nom (le même que donné comme nom d'occurence dans la carte) et indiquer le texte de l'acteur à afficher. -->
+		<ZNIEFF>Attention, il est interdit de construire ici : c'est une Zone Naturelle d'Intérêt Ecologique Faunistique et Floristique (ZNIEFF)</ZNIEFF>
+		<ZICO>Attention, Il est interdit de construire ici : c'est une Zone Importante pour la Conservation des Oiseaux.</ZICO>
+		<PNR>Attention, vous êtes sur un Parc Naturel Régional, il est impossible d'implanter des éoliennes sur cette zone.</PNR> 
+		<NATURA2000>Attention, il est interdit de construire ici : c'est une zone classée Natura 2000.</NATURA2000>
+		<RAMSAR>Attention, il est interdit de construire ici, vous êtes sur une zone humide protégée classée par la convention de RAMSAR</RAMSAR>
+		<invitation>Venez donc à la DREAL service environnement (ancienne DIREN) pour discuter de votre projet. Je peux vous donner la carte des zones protégées.</invitation>
+	</Atelier>
+	<Questionnaire>
+	<!-- Répliques de la phase Questionnaire -->
+		<Proc>
+		<!-- Répliques des questions de procédure -->
+			<intro>Bonjour cher joueur, je suis monsieur Rodin. Je travaille au sein de la Direction Régionale de l'ENvironnement (DREAL). Nous aussi, nous intervenons dans la procédure d'obtention du permis de conduire pour les parcs éoliens, dans le domaine de l'environnement, et pour veiller au respect des zones protégées.  Voyons un peu si vous connaissez la procédure.Si vous le voulez bien, nous allons commencer par le questionnaire de procédure de la DIREN. C'est parti !</intro>
+			<correct>Bravo, il s'agit effectivement de la bonne réponse.</correct>
+			<faux>Aïe, ce n'est pas la bonne réponse. Celle-ci s'affiche en vert.</faux>
+			<bonScore>Félicitations ! Vous avez su utiliser vos connaissances pour obtenir un bon score à ce questionnaire de procédure. Vous maitrisez le domaine et votre projet semble plus que solide. Nous sommes heureux de vous délivrer un avis favorable pour la demande de permis de construire dans le cadre de votre projet de parc éolien.</bonScore>
+			<mauvaisScore>Dommage, vous n'avez pas obtenu un score suffisant à ce questionnaire de procédure. Essayez de consolider vos connaissances pour les prochains questionnaires. Nous sommes dans l'obligation de vous donner un avis défavorable pour le projet. Néanmoins, rien n'est joué, allez donc rencontrer les autres acteurs du projet. Bon courage !</mauvaisScore>
+		</Proc>
+		<EnR>
+		<!-- Répliques des questions sur les énergies renouvelables -->
+			<intro>Vous pouvez maintenant tenter d'obtenir la carte des zones protégées. Çela pourra vous être utile dans votre projet.</intro>
+			<correct>Bien joué ! Vous avez trouvé la réponse exacte.</correct>
+			<faux>Dommage, vous vous êtes trompé de proposition. La bonne proposition s'affiche en vert.</faux>
+			<bonScore>Félicitations ! Vous semblez maîtriser cette thématique, votre joli score est donc mérité. Grâce à votre performance, nous avons le plaisir de vous délivrer la carte d'accès. Elle permettra de révéler les zones protégées sur la carte-projet de votre bureau d'études.</bonScore>
+			<mauvaisScore>Aïe, vous avez obtenu un score trop faible à ce questionnaire Énergies Renouvelables. Vous ne gagnez donc pas la carte d'accès des zones protégées. Vous pourrez néanmoins en gagner d'autres en allant rencontrer les autres acteurs. Bon courage !</mauvaisScore>
+		</EnR>
+	</Questionnaire>
+</Repliques>

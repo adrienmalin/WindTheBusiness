@@ -1,0 +1,38 @@
+
+<questionnaire>
+<question>
+		<intitule >Quelle entité instruit au nom du préfet, la recevabilité d'un dossier de création de Zone de Développement Éolien ?</intitule>
+		<reponse j="m">la Direction Départementale des Territoires (DDT)</reponse>
+		<reponse j="m">l'Agence De l'Environnement et de la Maîtrise de l'Énergie (ADEME)</reponse>
+		<reponse j="b">la Direction Régionale de l'Environnement, de l'Aménagement et du Logement (DREAL)</reponse>
+		<reponse j="m">le Centre d'Études Techniques de l'Environnement (CETE)</reponse>
+	</question>
+<question>
+		<intitule >Lors de la création d'une Zone de Développement Éolien, il existe une commission spécialisée qui émet un avis sur les enjeux naturels. Laquelle ?</intitule>
+		<reponse j="m">La Commission Départementale de la Nature, du Patrimoine et des Sociétés</reponse>
+		<reponse j="b">La Commission Départementale de la Nature, du Paysage et des Sites </reponse>
+		<reponse j="m">La Commission Départementale de la Nature, du Paysage et des Sources</reponse>
+		<reponse j="m">La Commission Départementale de la Nature, du Patrimoine et des Sites</reponse>
+	</question>
+<question>
+		<intitule >Les chiroptères sont un ordre animal qui peut se mettre en danger au contact des pales d'éoliennes. Ils sont plus communément appelés :</intitule>
+		<reponse j="m">cigognes</reponse>
+		<reponse j="b">chauves-souris</reponse>
+		<reponse j="m">hirondelles</reponse>
+		<reponse j="m">hiboux</reponse>
+	</question>
+<question>
+		<intitule >Lequel de ces types de zones n'est pas considéré comme une servitude juridique ?</intitule>
+		<reponse j="m">les zones inondables</reponse>
+		<reponse j="m">les sites classés</reponse>
+		<reponse j="m">les Arrêts de Protection de Biotope (APB)</reponse>
+		<reponse j="b">les Zones Nationales d'Interêt Écologique, Faunistique et Floristique (ZNIEFF)</reponse>
+	</question>
+<question>
+		<intitule >Un site RAMSAR, du nom de la convention Ramsar, concerne :</intitule>
+		<reponse j="b">les zones humides</reponse>
+		<reponse j="m">les zones arides</reponse>
+		<reponse j="m">les zones forestières</reponse>
+		<reponse j="m">les zones écologiques</reponse>
+	</question>
+</questionnaire>

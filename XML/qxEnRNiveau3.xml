@@ -1,0 +1,427 @@
+<questionnaire>
+	<difficulte>Ministre de l'écologie</difficulte>
+	<!-- ECOCONSTRUCTION -->
+	<question>
+		<intitule >Est-ce que bâtir HQE coûte plus cher ?</intitule>
+		<reponse j="m">Non la qualité ne coûte pas plus chere</reponse>
+		<reponse j="m">Oui au moins 30% plus cher</reponse>
+		<reponse j="b">Oui mais le surcoût est compensé par la durée d'exploitation du bâtiment</reponse>
+	</question>
+	<question>
+		<intitule >L'investissement d'un bâtiment HQE devient rentable au bout de combien d'années ?</intitule>
+		<reponse j="b">5 à 10 ans</reponse>
+		<reponse j="m">10 à 15 ans</reponse>
+		<reponse j="m">15 à 20 ans</reponse>
+	</question>
+	<question>
+		<intitule >Qu'est-ce que l'inertie thermique ?</intitule>
+		<reponse j="m">Propriété d'un matériau à stocker peu d'énergie et à la restituer le plus rapidement possible</reponse>
+		<reponse j="m">Propriété des matériau inertes</reponse>
+		<reponse j="m">Propriété d'un matériau à stocker toute l'énergie thermique de l'endroit où elle se trouve sans la restituer</reponse>
+		<reponse j="b">Propriété d'un matériau à stocker beaucoup d'énergie et à la restituer le plus lentement possible</reponse>
+	</question>
+	<question>
+		<intitule >A 12m du sol, l'inertie thermique du sous-sol maintient la température à :</intitule>
+		<reponse j="m">5°C</reponse>
+		<reponse j="b">10°C</reponse>
+		<reponse j="m">15°C</reponse>
+		<reponse j="m">20°C</reponse>
+	</question>
+	<question>
+		<intitule >Quel est l'inconvénient principal du puits provençal/canadien ?</intitule>
+		<reponse j="b">La propagation de Radon (gaz radioactif) à trop forte dose à travers des tuyaux vétustes</reponse>
+		<reponse j="m">La propagation de xénon (gaz radioactif) à trop forte dose à travers des tuyaux vétustes</reponse>
+		<reponse j="m">Fort coût en électricité</reponse>
+		<reponse j="m">Fort coût de maintenance</reponse>
+	</question>
+	<question>
+		<intitule >Dans l'hémisphère Nord, à latitude européenne, une construction bioclimatique se caractérise par :</intitule>
+		<reponse j="m">peu d'ouvertures au sud, peu d'ouvertures au nord, grandes ouvertures à l'est et à l'ouest</reponse>
+		<reponse j="m">grandes ouvertures au sud, très peu au nord, grandes ouvertures à l'est et à l'ouest</reponse>
+		<reponse j="m">peu d'ouvertures à tous les points cardinaux</reponse>
+		<reponse j="b">des grandes ouvertures au sud, très peu au nord, peu d'ouvertures à l'est et à l'ouest</reponse>
+	</question>
+	<question>
+		<intitule >Quelle est l'économie d'énergie faite dans un logement qui passe de 20 à 19 °C ?</intitule>
+		<reponse j="m">2% d'énergie en moins</reponse>
+		<reponse j="b">7% d'énergie en moins</reponse>
+		<reponse j="m">15% d'énergie en moins</reponse>
+		<reponse j="m">27% d'énergie en moins</reponse>
+	</question>
+	<question>
+		<intitule >Parmi ces avantages de la végétation caduque en hiver trouvez l'intrus :</intitule>
+		<reponse j="m">assure une protection brise-vent</reponse>
+		<reponse j="m">échanges par convection limités</reponse>
+		<reponse j="b">assure un effet d'ombre recherché</reponse>
+		<reponse j="m">échanges par rayonnements limités</reponse>
+	</question>
+	<question>
+		<intitule >Parmi ces avantages de la végétation caduque en été trouvez l'intrus :</intitule>
+		<reponse j="m">donne un effet d'ombre très recherché</reponse>
+		<reponse j="b">assure une protection brise-vent</reponse>
+		<reponse j="m">limite les échauffements sur parois</reponse>
+		<reponse j="m">offre une transition entre l'ombre et la pleine lumière</reponse>
+	</question>
+	<question>
+		<intitule >Un mur végétalisé biofiltrant est un mur utilisé pour les éco-constructions composé de cellules empilées et remplies de substrat. Une de ces propositions n'est pas un avantage de ce mur :</intitule>
+		<reponse j="b">capacité à créer de l'ombre</reponse>
+		<reponse j="m">capacité à dépolluer</reponse>
+		<reponse j="m">amélioration du confort acoustique</reponse>
+		<reponse j="m">amélioration du confort thermique</reponse>
+	</question>
+	<!-- BIOMASSE -->
+	<question>
+		<intitule >Quelle est la valeur de la tonne carbone en 2006 ?</intitule>
+		<reponse j="m">50€</reponse>
+		<reponse j="b">100€</reponse>
+		<reponse j="m">180€</reponse>
+		<reponse j="m">300€</reponse>
+	</question>
+	<question>
+		<intitule >Combien de tonnes de bois fait économiser une tonne de papier recyclé ?</intitule>
+		<reponse j="m">1 tonne de bois</reponse>
+		<reponse j="b">2 tonnes de bois</reponse>
+		<reponse j="m">5 tonnes de bois</reponse>
+		<reponse j="m">10 tonnes de bois</reponse>
+	</question>
+	<question>
+		<intitule >Quelle quantité d'énergie fournit la biomasse par an en France (en tonnes équivalent pétrole) en 2007</intitule>
+		<reponse j="m">3 millions de TEP</reponse>
+		<reponse j="m">6millions de TEP</reponse>
+		<reponse j="b">10 millions de TEP</reponse>
+		<reponse j="m">15 millions de TEP</reponse>
+	</question>
+	<question>
+		<intitule >Quelle est la part de la production électrique de la biomasse, dans le Monde en 2005 ?</intitule>
+		<reponse j="m">0,5 %</reponse>
+		<reponse j="b">1%</reponse>
+		<reponse j="m">2%</reponse>
+		<reponse j="m">5 %</reponse>
+	</question>
+	<question>
+		<intitule >Quelle pourcentage de la superficie du territoire français recouvre les forêts ?</intitule>
+		<reponse j="m">52% soit 25 millions d'hectares</reponse>
+		<reponse j="b">28% soit 15 millions d'hectares</reponse>
+		<reponse j="m">12% soit 6 millions d'hectares</reponse>
+		<reponse j="m">5% soit 2,5 millions d'hectares</reponse>
+	</question>
+	<question>
+		<intitule >En 2009, 6 millions de foyers utilisent des appareils de chauffage à bois, l'amélioration de la technologie de ces appareils permettra d'équiper alors plus de :</intitule>
+		<reponse j="m">7 millions de logements</reponse>
+		<reponse j="m">8millions de logements</reponse>
+		<reponse j="b">9 millions de logements</reponse>
+		<reponse j="m">12 millions de logements</reponse>
+	</question>
+	<question>
+		<intitule >La dernière étude sur l'emploi dans le secteur des énergies renouvelables conduites par l' ADEME indique que la filière de fabrication, de commercialisation, et d'installation des appareils de chauffage au bois domestique emploie aujourd'hui en France environ :</intitule>
+		<reponse j="m">10 000</reponse>
+		<reponse j="m">20 000</reponse>
+		<reponse j="m">40 000</reponse>
+		<reponse j="b">60 000</reponse>
+	</question>
+	<question>
+		<intitule >Entre un bois sec près à l'emploi (20% d'humidité) et un bois fraichement coupé (45% d'humidité) , l'énergie est :</intitule>
+		<reponse j="b">2 fois moindre</reponse>
+		<reponse j="m">3fois moindre</reponse>
+		<reponse j="m">5fois moindre</reponse>
+		<reponse j="m">10 fois moindre</reponse>
+	</question>
+	<question>
+		<intitule >Chaque tonne de bois produite équivaut à :</intitule>
+		<reponse j="m">0,2 tonne de CO2</reponse>
+		<reponse j="b">0,5 tonne de CO2</reponse>
+		<reponse j="m">1 tonne de CO2</reponse>
+		<reponse j="m">2 tonnes de CO2</reponse>
+	</question>
+	<question>
+		<intitule >Avec 34 600 Hectares,  le plus grand massif forestier de France est :</intitule>
+		<reponse j="m">la forêt des Landes</reponse>
+		<reponse j="b">la forêt d'Orléans</reponse>
+		<reponse j="m">la forêt des Maures</reponse>
+		<reponse j="m">la forêt du Vercors</reponse>
+	</question>
+	<!-- GEOTHERMIE -->
+	<question>
+		<intitule >A combien de mètres de profondeur circule l'eau contenu dans les tuyaux dans le cadre de la géothermie de moyenne énergie ?</intitule>
+		<reponse j="m">2000m</reponse>
+		<reponse j="m">3000m</reponse>
+		<reponse j="b">4000m</reponse>
+		<reponse j="m">5000m</reponse>
+	</question>
+	<question>
+		<intitule >Quelle est la part de la production électrique de la géothermie, dans le Monde en 2005 ?</intitule>
+		<reponse j="m">0,01 %</reponse>
+		<reponse j="m">0,1%</reponse>
+		<reponse j="b">0,3 %</reponse>
+		<reponse j="m">0,5%</reponse>
+	</question>
+	<question>
+		<intitule >Géothermie de basse énergie ( température inférieure à 30°C). La seule installation de 2 sondes géothermique à 50m de profondeur permet d'alimenter en chauffage un appartement de :</intitule>
+		<reponse j="m">25 m2</reponse>
+		<reponse j="m">50 m2</reponse>
+		<reponse j="b">120 m2</reponse>
+		<reponse j="m">200 m2</reponse>
+	</question>
+	<question>
+		<intitule >En mars 2009, en terme de capacités géothermiques installées la France se situe :</intitule>
+		<reponse j="m">au 1ier rang européen</reponse>
+		<reponse j="b">au 3ième rang européen</reponse>
+		<reponse j="m">au 5ième rang européen</reponse>
+		<reponse j="m">au 8ième rang européen</reponse>
+	</question>
+	<question>
+		<intitule >La France dispose de 65 installations dédiées au chauffage urbain, réalisées pour l'essentiel dans les années 1980, elles assurent la couverture des besoins de près de :</intitule>
+		<reponse j="m">50 000 logements</reponse>
+		<reponse j="m">100 000 logements</reponse>
+		<reponse j="m">150 000 logements</reponse>
+		<reponse j="b">200 000 logements</reponse>
+	</question>
+	<question>
+		<intitule >En Ile de france la géothermie est considérée comme la première énergie renouvelable : en effet la région comptait en 2009 :</intitule>
+		<reponse j="m">8 centrales géothermiques</reponse>
+		<reponse j="m">17 centrales géothermiques</reponse>
+		<reponse j="b">34 centrales géothermiques</reponse>
+		<reponse j="m">53 centrales géothermiques</reponse>
+	</question>
+	<question>
+		<intitule >Quelle est l'émission de CO2 par Kwh des centrales géothermiques en 2009 ?</intitule>
+		<reponse j="b">55g de CO2 par Kwh</reponse>
+		<reponse j="m">110g de Co2 par Kwh</reponse>
+		<reponse j="m">200g de Co2 par Kwh</reponse>
+		<reponse j="m">400g de Co2 par Kwh</reponse>
+	</question>
+	<question>
+		<intitule >La géothermie couvre :</intitule>
+		<reponse j="m">0,2 % des besoins mondiaux en électricité</reponse>
+		<reponse j="b">0,4 % des besoins mondiaux en électricité</reponse>
+		<reponse j="m">3% des besoins mondiaux en électricité</reponse>
+		<reponse j="m">10% des besoins mondiaux en électricité</reponse>
+	</question>
+	<question>
+		<intitule >Les pompes à chaleur sont en pleine expansion, combien ont été installées chez les particuliers, en France en 2007 ?</intitule>
+		<reponse j="m">1000</reponse>
+		<reponse j="m">5000</reponse>
+		<reponse j="m">10 000</reponse>
+		<reponse j="b">20 000</reponse>
+	</question>
+	<question>
+		<intitule >En 2002, quelle était la capacité géothermique installée dans le Monde ?</intitule>
+		<reponse j="m">100 MW</reponse>
+		<reponse j="m">1000 MW</reponse>
+		<reponse j="m">3000 MW</reponse>
+		<reponse j="b">8500 MW</reponse>
+	</question>
+	<!-- HYDRAULIQUE -->
+	<question>
+		<intitule >En 2009, quelle est la production d'électricité hydraulique de la France par an ?</intitule>
+		<reponse j="m">30 TWh</reponse>
+		<reponse j="b">70 TWh</reponse>
+		<reponse j="m">110 TWh</reponse>
+		<reponse j="m">150 TWh</reponse>
+	</question>
+	<question>
+		<intitule >En terme d'énergie hydraulique, le parc de production électrique français a une capacité de (en 2009) :</intitule>
+		<reponse j="m">10 000 MW</reponse>
+		<reponse j="m">60 000 MW</reponse>
+		<reponse j="b">120 000 MW</reponse>
+		<reponse j="m">500 000 MW</reponse>
+	</question>
+	<question>
+		<intitule >En terme d'énergie hydraulique, la puissance installée en France en 2009 s'élève à :</intitule>
+		<reponse j="m">4 000 MW</reponse>
+		<reponse j="b">24 000 MW</reponse>
+		<reponse j="m">64 000 MW</reponse>
+		<reponse j="m">104 000 MW</reponse>
+	</question>
+	<question>
+		<intitule >Dans le monde, chaque année, combien de TerraWattheures (1 milliard de KiloWattheures) d'électricité sont produits à partir de l'énergie hydraulique ?</intitule>
+		<reponse j="m">300</reponse>
+		<reponse j="b">3 000</reponse>
+		<reponse j="m">30 000</reponse>
+		<reponse j="m">300 000</reponse>
+	</question>
+	<question>
+		<intitule >Combien existe-t-il de centrales hydroélectriques et de STEP (Station de Transfert d'Énergie par Pompage) en France en 2009 ?</intitule>
+		<reponse j="m">558</reponse>
+		<reponse j="m">1458</reponse>
+		<reponse j="b">2258</reponse>
+		<reponse j="m">4058</reponse>
+	</question>
+	<question>
+		<intitule >Quel type de centrales hydro-électriques est majoritaire en France ? </intitule>
+		<reponse j="m">les centrales de lac</reponse>
+		<reponse j="b">les centrales au fil de l'eau</reponse>
+		<reponse j="m">les Stations de Transfert d'Énergie par Pompage (STEP)</reponse>
+		<reponse j="m">les centrales d'éclusée</reponse>
+	</question>
+	<question>
+		<intitule >Une centrale de lac est une centrale hydro-électrique associée à une retenue d'eau créée par un barrage. Dans quelle partie de la France les centrales de lac sont-elles les plus nombreuses ?</intitule>
+		<reponse j="m">les Pyrénées</reponse>
+		<reponse j="m">le Bassin parisien</reponse>
+		<reponse j="m">la Bretagne</reponse>
+		<reponse j="b">les Alpes</reponse>
+	</question>
+	<question>
+		<intitule >D'ici 2020, l'objectif de développement de l'hydro-électricité en France est une augmentation de la production par an de :</intitule>
+		<reponse j="m">1 TWh</reponse>
+		<reponse j="b">7 TWh</reponse>
+		<reponse j="m">14 TWh</reponse>
+		<reponse j="m">25 TWh</reponse>
+	</question>
+	<question>
+		<intitule >En France, en 2009, combien recense-t-on de centrales de petite hydro-électricité ? </intitule>
+		<reponse j="m">200</reponse>
+		<reponse j="m">900</reponse>
+		<reponse j="m">1200</reponse>
+		<reponse j="b">1700</reponse>
+	</question>
+	<question>
+		<intitule >Quelles installations hydro-électriques permettent de stocker l'électricité et de la délivrer rapidement en période de pointe ?</intitule>
+		<reponse j="m">les centrales de lac</reponse>
+		<reponse j="m">les centrales d'éclusée</reponse>
+		<reponse j="b">les Stations de Transfert d'Énergie par Pompage (STEP)</reponse>
+		<reponse j="m">les centrales au fil de l'eau</reponse>
+	</question>
+	<!-- SOLAIRE -->
+	<question>
+		<intitule >L'appareil qui permet de délivrer des tensions et des courants alternatifs à partir d'une source d'énergie électrique continue, est appelé :</intitule>
+		<reponse j="m">transformateur</reponse>
+		<reponse j="m">redresseur</reponse>
+		<reponse j="m">alternateur</reponse>
+		<reponse j="b">onduleur</reponse>
+	</question>
+	<question>
+		<intitule >En France, en 2009, quel est le prix d'achat au kilowatt/heure de l'énergie photovoltaïque (pour une toiture intégrée pour les particuliers) ?</intitule>
+		<reponse j="m">20 centimes</reponse>
+		<reponse j="m">40 centimes</reponse>
+		<reponse j="b">60 centimes</reponse>
+		<reponse j="m">80 centimes</reponse>
+	</question>
+	<question>
+		<intitule >La puissance des centrales photovoltaïques au sol est généralement supérieur à :</intitule>
+		<reponse j="b">1 MW </reponse>
+		<reponse j="m">10 MW</reponse>
+		<reponse j="m">100 MW</reponse>
+		<reponse j="m">1000 MW</reponse>
+	</question>
+	<question>
+		<intitule >Combien de temps met un système photovoltaïque pour rembourser l'énergie nécessaire à sa fabrication et à son installation (énergie grise) ?</intitule>
+		<reponse j="m">de 1,1 à 3,3 années</reponse>
+		<reponse j="m">de 1,4 à 3,8 années</reponse>
+		<reponse j="b">de 1,6 à 4,7 années</reponse>
+		<reponse j="m">de 2 à 5,5 années</reponse>
+	</question>
+	<question>
+		<intitule >Le Grenelle de l'Environnement fixe pour 2020 l'objectif d'un parc photovoltaïque installé d'une puissance de :</intitule>
+		<reponse j="m">2 200 MW</reponse>
+		<reponse j="m">3 300 MW</reponse>
+		<reponse j="m">4 500 MW</reponse>
+		<reponse j="b">5 400 MW</reponse>
+	</question>
+	<question>
+		<intitule >Le Grenelle de l'Environnement fixe pour 2020 l'objectif d'un parc solaire thermique comportant :</intitule>
+		<reponse j="m">500 000 d'équipements domestiques</reponse>
+		<reponse j="m">1,7 million d'équipements domestiques</reponse>
+		<reponse j="m">2,9 millions d'équipements domestiques</reponse>
+		<reponse j="b">4,3 millions d'équipements domestiques</reponse>
+	</question>
+	<question>
+		<intitule >Fin 2006, la puissance solaire thermique installée dans le monde est de :</intitule>
+		<reponse j="m">85 300 MW</reponse>
+		<reponse j="b">127 800 MW</reponse>
+		<reponse j="m">172 100 MW</reponse>
+		<reponse j="m">214 800 MW</reponse>
+	</question>
+	<question>
+		<intitule >Quel est la part de la France sur le marché concernant les installations thermiques ?</intitule>
+		<reponse j="b">9%</reponse>
+		<reponse j="m">19%</reponse>
+		<reponse j="m">29%</reponse>
+		<reponse j="m">39%</reponse>
+	</question>
+	<question>
+		<intitule >Les capteurs solaires transforment le rayonnement solaire en chaleur. Quel appareil transporte ensuite cette chaleur à l'intérieur des bâtiments ?</intitule>
+		<reponse j="m">un fluide transmetteur</reponse>
+		<reponse j="b">un fluide caloporteur</reponse>
+		<reponse j="m">un fluide transporteur</reponse>
+		<reponse j="m">un fluide transformateur</reponse>
+	</question>
+	<question>
+		<intitule >Dans le monde, les capteurs solaires les plus répandus sont :</intitule>
+		<reponse j="m">les capteurs à air</reponse>
+		<reponse j="m">les capteurs non vitrés</reponse>
+		<reponse j="b">les capteurs sous vide</reponse>
+		<reponse j="m">les capteurs plan vitrés</reponse>
+	</question>
+	<!-- EOLIEN  -->
+	<question>
+		<intitule >Le vent fait tourner les pales d'une éolienne entre 10 et :</intitule>
+		<reponse j="b">25 tours par minute</reponse>
+		<reponse j="m">50 tours par minute</reponse>
+		<reponse j="m">75 tours par minute</reponse>
+		<reponse j="m">100 tours par minute</reponse>
+	</question>
+	<question>
+		<intitule >Quel pays est le leader européen en matière de construction et d'utilisation de l'énergie éolienne (en 2009) ?</intitule>
+		<reponse j="m">la Suède</reponse>
+		<reponse j="m">la France</reponse>
+		<reponse j="b">le Danemark</reponse>
+		<reponse j="m">l'Allemagne</reponse>
+	</question>
+	<question>
+		<intitule >Quelle est l'entreprise leader mondial dans le secteur de la construction d'éoliennes (en 2009) ?</intitule>
+		<reponse j="m">Gamesa (Espagne)</reponse>
+		<reponse j="b">Vestas (Danemark)</reponse>
+		<reponse j="m">Vergnet (France)</reponse>
+		<reponse j="m">GE Wind Energy (États-Unis)</reponse>
+	</question>
+	<question>
+		<intitule >De combien, en pourcentage, la puissance installée mondiale a-t-elle augmenté entre 2008 et 2009 ?</intitule>
+		<reponse j="m">environ 20%</reponse>
+		<reponse j="b">environ 30%</reponse>
+		<reponse j="m">environ 40%</reponse>
+		<reponse j="m">environ 50%</reponse>
+	</question>
+	<question>
+		<intitule >Quelle est la puissance raccordée en terme d'énergie éolienne en France, au 31 décembre 2009 ?</intitule>
+		<reponse j="m">environ 100 mégawatts</reponse>
+		<reponse j="m">environ 1500 mégawatts</reponse>
+		<reponse j="b">environ 4600 mégawatts</reponse>
+		<reponse j="m">environ 8700 mégawatts</reponse>
+	</question>
+	<question>
+		<intitule >La Champagne-Ardennes, la Picardie, la région Centre, la Bretagne et la Lorraine sont les 5  régions les plus équipées au niveau éolien. En tout, quel est leur part dans le total de la puissance raccordée (en 2009)?</intitule>
+		<reponse j="m">45%</reponse>
+		<reponse j="b">55%</reponse>
+		<reponse j="m">65%</reponse>
+		<reponse j="m">75%</reponse>
+	</question>
+	<question>
+		<intitule >Le parc de Fruges, dans le Pas-de-Calais, est le parc éolien français le plus important. Combien comporte-il d'éoliennes (en 2009)?</intitule>
+		<reponse j="m">10</reponse>
+		<reponse j="m">30</reponse>
+		<reponse j="m">50</reponse>
+		<reponse j="b">70</reponse>
+	</question>
+	<question>
+		<intitule >Quelle est la puissance supplémentaire en mégawatts obtenue par la France en 2009 ?</intitule>
+		<reponse j="m">Plus de 100 MW</reponse>
+		<reponse j="b">Plus de 1000 MW</reponse>
+		<reponse j="m">Plus de 5000 MW</reponse>
+		<reponse j="m">Plus de 10000 MW</reponse>
+	</question>
+	<question>
+		<intitule >Combien de terrawatts/heure (mille milliards) d'énergie éolienne la France a-t-elle produit en 2009 ?</intitule>
+		<reponse j="b">7,6 TWh</reponse>
+		<reponse j="m">17,6 TWh</reponse>
+		<reponse j="m">22,6 TWh</reponse>
+		<reponse j="m">27,6 TWh</reponse>
+	</question>
+	<question>
+		<intitule >Fin 2008, combien de personnes la « filière éolienne » employait-elle ?</intitule>
+		<reponse j="b">7000</reponse>
+		<reponse j="m">10000</reponse>
+		<reponse j="m">20000</reponse>
+		<reponse j="m">50000</reponse>
+	</question>
+</questionnaire>

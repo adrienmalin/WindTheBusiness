@@ -1,0 +1,24 @@
+﻿<Repliques>
+	<Questionnaire>
+		<Proc>
+			<intro>Je vous en prie.</intro>
+			<questionSuivante>Vous avez d'autres questions ?</questionSuivante>
+			<finQuestionnaire>Alors, êtes-vous satisfait de mes réponses ?</finQuestionnaire>
+			<bonScore>Très bien, De quoi d'autre voulez-vous parler ?</bonScore>
+			<mauvaisScore>Et si nous parlions d'autre chose ?</mauvaisScore>
+		</Proc>
+		<EnR>
+			<intro>Allons-y !</intro>
+			<questionSuivante>Vous avez d'autres questions ?</questionSuivante>
+			<finQuestionnaire>Etes-vous satisfait de mes réponses ?</finQuestionnaire>
+			<bonScore>Merci monsieur. À bientôt !</bonScore>
+			<mauvaisScore>Tans pis pour moi, à bientôt dans une autre partie.</mauvaisScore>
+		</EnR>
+		<ADEME>
+			<intro>Bien sûr !</intro>
+			<questionSuivante>Evidemment !</questionSuivante>
+			<finQuestionnaire> Merci.</finQuestionnaire>
+			<fin>A bientôt !</fin>
+		</ADEME>
+	</Questionnaire>
+</Repliques>

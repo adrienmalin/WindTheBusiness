@@ -1,0 +1,424 @@
+﻿<questionnaire>
+	<difficulte>TSE Stagiaire</difficulte>
+	<!-- ECOCONSTRUCTION -->
+	<question>
+		<intitule >Une construction bioclimatique est un bâtiment :</intitule>
+		<reponse j="m">permettant d'accueillir des climatologues et des biologistes</reponse>
+		<reponse j="b">qui a pour objectif de réduire au minimum les besoins énergétiques du cycle de vie d'un bâtiment</reponse>
+		<reponse j="m">dans lequel est installée une douche écossaise</reponse>
+	</question>
+	<question>
+		<intitule >Quels sont les 3 thèmes abordés par les objectifs ou cibles de la HQE ?</intitule>
+		<reponse j="m">l'éco-conception, le bien-être, la santé</reponse>
+		<reponse j="b">l'éco-construction, le confort, la santé</reponse>
+		<reponse j="m">l'éco-developpement, le bien-être, le confort</reponse>
+	</question>
+	<question>
+		<intitule >Qu'est-ce qu'une éco-construction ?</intitule>
+		<reponse j="m">Une construction plus économique qu'un bâtiment classique</reponse>
+		<reponse j="b">Une construction respectueuse de l'environnement</reponse>
+		<reponse j="m">Une construction avec une architecture spécifique</reponse>
+		<reponse j="m">Une construction nouvelle technologie</reponse>
+	</question>
+	<question>
+		<intitule >A quoi correspond l'isolation acoustique d'un habitat ?</intitule>
+		<reponse j="m">Ensemble des procédés visant à supprimer tous les bruits parasites d'un habitat</reponse>
+		<reponse j="m">Ensemble des procédés visant à aider les bruits parasites à sortir d'un habitat </reponse>
+		<reponse j="b">Ensemble des procédés visant à empêcher le bruit de se propager facilement </reponse>
+	</question>
+	<question>
+		<intitule >A quoi correspond l'isolation thermique d'un habitat ?</intitule>
+		<reponse j="m">Ensemble des procédés visant à empêcher la chaleur de rentrer dans un bâtiment</reponse>
+		<reponse j="m">Ensemble des procédés visant à garder une température constante toute l'année dans un bâtiment</reponse>
+		<reponse j="b">Ensemble des procédés visant à réduire les échanges de chaleur avec l'extérieur dans un bâtiment </reponse>
+		<reponse j="m">Ensemble des procédés visant à augmenter la température en hiver et à la refroidir en été</reponse>
+	</question>
+	<question>
+		<intitule >En quelle unité est exprimé l'isolement acoustique d'un bâtiment ?</intitule>
+		<reponse j="b">Le décibel</reponse>
+		<reponse j="m">Le Becquerel</reponse>
+		<reponse j="m">Le Hertz</reponse>
+		<reponse j="m">Le Watt</reponse>
+	</question>
+	<question>
+		<intitule >Quel principe physique exploite le puits provencal/canadien ?</intitule>
+		<reponse j="m">L'effet joule</reponse>
+		<reponse j="b">L'inertie thermique du sous-sol</reponse>
+		<reponse j="m">La poussée d'Archimède</reponse>
+		<reponse j="m">Le principe d'Alembert</reponse>
+	</question>
+	<question>
+		<intitule >L'architecture bioclimatique s'axe autour de 3 notions triangulaires :</intitule>
+		<reponse j="b">Climat, Habitat, Occupant</reponse>
+		<reponse j="m">Climat, Constructeur, Occupant</reponse>
+		<reponse j="m">Habitat, Constructeur, Occupant</reponse>
+	</question>
+	<question>
+		<intitule >Une architecture bioclimatique contrôle 3 paramètres principaux :</intitule>
+		<reponse j="b">la température, l'hygrométrie, la qualité de l'air</reponse>
+		<reponse j="m">la température, la pression atmosphérique, la qualité de l'air</reponse>
+		<reponse j="m">la luminosité, l'hygrométrie, la température</reponse>
+	</question>
+	<question>
+		<intitule >Que signifie le sigle HQE ?</intitule>
+		<reponse j="m">Haute Qualité Écologique</reponse>
+		<reponse j="b">Haute Qualité Environnementale</reponse>
+		<reponse j="m">Haute Qualité Économique</reponse>
+	</question>
+	<!-- BIOMASSE -->
+	<question>
+		<intitule >La biomasse c'est :</intitule>
+		<reponse j="m">une batterie de voiture fabriquée à partir de plastique recyclé</reponse>
+		<reponse j="m">l'énergie électrique obtenue à partir de la combustion de produits issus de l'agriculture biologique</reponse>
+		<reponse j="b">l'ensemble des matières vivantes (organiques, animales, végétales) pouvant devenir sources d'énergie</reponse>
+	</question>
+	<question>
+		<intitule >Le biodiesel est utilisé comme biocarburant. En 2003 la France a produit 357 000 tonnes de biocarburant à partir de 2 plantes cultivées, cherchez l'intrus :</intitule>
+		<reponse j="m">colza</reponse>
+		<reponse j="b">olive </reponse>
+		<reponse j="m">tournesol</reponse>
+	</question>
+	<question>
+		<intitule >Biomasse.La fermentation des matières organiques conduit à la formation de gaz méthane. On peut la valoriser de différentes façons. Trouvez l'intrus :</intitule>
+		<reponse j="m">en produisant de l'électricité</reponse>
+		<reponse j="b">en gonflant des ballons dirigeables</reponse>
+		<reponse j="m">en apportant de la chaleur industrielle </reponse>
+	</question>
+	<question>
+		<intitule >A quoi servent les biogaz ?</intitule>
+		<reponse j="b">À produire de l'électricité </reponse>
+		<reponse j="m">À produire de l'oxygène</reponse>
+		<reponse j="m">À produire de l'hélium</reponse>
+		<reponse j="m">À produire du CO2</reponse>
+	</question>
+	<question>
+		<intitule >Comment est produit le gaz à partir de la biomasse ?</intitule>
+		<reponse j="m">par la pollution de l'air</reponse>
+		<reponse j="m">par les cadavres d'animaux morts</reponse>
+		<reponse j="m">par la respiration des végétaux</reponse>
+		<reponse j="b">par la décomposition des végétaux </reponse>
+	</question>
+	<question>
+		<intitule >Le bois est considéré comme énergie renouvelable tant que :</intitule>
+		<reponse j="m">le volume de bois prélevé est strictement inférieur à 50% de l'accroissement de la forêt</reponse>
+		<reponse j="b">le volume de bois prélevé ne dépasse pas l'accroissement de la forêt </reponse>
+		<reponse j="m">le volume de bois prélevé est au maximum 10% supérieur à l'accroissement de la forêt</reponse>
+	</question>
+	<question>
+		<intitule >Le bois-énergie est une technique de combustion dont on tire principalement de l'énergie sous forme :</intitule>
+		<reponse j="m">électrique</reponse>
+		<reponse j="b">thermique</reponse>
+		<reponse j="m">mécanique</reponse>
+		<reponse j="m">cinétique</reponse>
+	</question>
+	<question>
+		<intitule > Le prix du bois est-il soumis aux fluctuations des cours internationaux des monnaies ?</intitule>
+		<reponse j="m">OUI</reponse>
+		<reponse j="b">NON</reponse>		
+	</question>
+	<question>
+		<intitule >La biomasse est respectueuse de l'environnement car :</intitule>
+		<reponse j="b">elle n'émet pas de gaz à effet de serre de manière incontrôlée </reponse>
+		<reponse j="m">elle ne produit pas de déchets dangereux </reponse>
+		<reponse j="m">elle évite la coupe des arbres</reponse>
+	</question>
+	<question>
+		<intitule >La distillation des matières organiques de la biomasse permet de produire :</intitule>
+		<reponse j="b">des biocarburants</reponse>
+		<reponse j="m">de l'huile</reponse>
+		<reponse j="m">de la chaleur</reponse>
+		<reponse j="m">du méthane</reponse>
+	</question>
+	<!-- GEOTHERMIE -->
+	<question>
+		<intitule >La géothermie c'est :</intitule>
+		<reponse j="b">le fait d'utiliser la chaleur du magma de la terre</reponse>
+		<reponse j="m">le fait d'utiliser la circulation des courants d'air chaud autour du globe</reponse>
+		<reponse j="m">un établissement de cure</reponse>
+	</question>
+	<question>
+		<intitule >La centrale géothermique de Bouillante produit de la vapeur puis de l'électricité. Où se trouve-t-elle ?</intitule>
+		<reponse j="b">A la Réunion</reponse>
+		<reponse j="m">Aux Kerguelen</reponse>
+		<reponse j="m">En Guadeloupe</reponse>
+	</question>
+	<question>
+		<intitule >Dans les centrales géothermiques, avec quoi fait-on tourner la turbine et l'alternateur ?</intitule>
+		<reponse j="m">Avec du gaz</reponse>
+		<reponse j="m">Avec du CO2</reponse>
+		<reponse j="m">avec de l'eau froide</reponse>
+		<reponse j="b">avec de la vapeur</reponse>
+	</question>
+	<question>
+		<intitule >Dans les centrales géothermiques, que produisent la turbine et l'alternateur ?</intitule>
+		<reponse j="m">du gaz naturel</reponse>
+		<reponse j="m">de l'hélium</reponse>
+		<reponse j="b">de l'électricité </reponse>
+	</question>
+	<question>
+		<intitule >L'eau qui passe dans les tuyaux destiné à la géothermie est :</intitule>
+		<reponse j="m">chaude</reponse>
+		<reponse j="b">froide</reponse>
+		<reponse j="m">tiède</reponse>
+		<reponse j="m">très chaude</reponse>
+	</question>
+	<question>
+		<intitule >Géothermie. Après circulation dans les tuyaux, où va l'eau chaude obtenue ?</intitule>
+		<reponse j="m">Dans une STEP</reponse>
+		<reponse j="b">Dans une centrale</reponse>
+		<reponse j="m">Dans une usine à gaz</reponse>
+	</question>
+	<question>
+		<intitule >Quelle est l'origine du terme géothermie (géo+thermie) ?</intitule>
+		<reponse j="b">la terre et la chaleur </reponse>
+		<reponse j="m">la terre et l'énergie</reponse>
+		<reponse j="m">le sous-sol et la chaleur</reponse>
+		<reponse j="m">le sous-sol et l'énergie</reponse>
+	</question>
+	<question>
+		<intitule >Les pompes à chaleur et le puits provençal appartiennent à la catégorie de quel type de géothermie ?</intitule>
+		<reponse j="b">Géothermie de très basse énergie </reponse>
+		<reponse j="m">Géothermie de basse énergie</reponse>
+		<reponse j="m">Géothermie de moyenne énergie</reponse>
+		<reponse j="m">Géothermie de haute énergie</reponse>
+	</question>
+	<question>
+		<intitule >Peut-on recevoir des subventions pour installer une pompe à chaleur géothermique dans son habitat ?</intitule>
+		<reponse j="m">OUI</reponse>
+		<reponse j="m">NON</reponse>
+	</question>
+	<!-- ENERGIE HYDRAULIQUE -->
+	<question>
+		<intitule >L'énergie hydraulique est une énergie créée par :</intitule>
+		<reponse j="m">la terre</reponse>
+		<reponse j="m">le vent</reponse>
+		<reponse j="b">l'eau</reponse>
+		<reponse j="m">le feu</reponse>
+	</question>
+	<question>
+		<intitule >Le barrage de la Grande-Dixence, qui est le plus haut barrage-poids du monde et qui fait partie d'une vaste installation hydro-électrique, se trouve en :</intitule>
+		<reponse j="m">Espagne</reponse>
+		<reponse j="b">Suisse</reponse>
+		<reponse j="m">Italie</reponse>
+		<reponse j="m">Allemagne</reponse>
+	</question>
+	<question>
+		<intitule >Les usines hydro-électriques utilisent : </intitule>
+		<reponse j="b">des turbines</reponse>
+		<reponse j="m">des roues à aube</reponse>
+		<reponse j="m">des moteurs hydrauliques</reponse>
+		<reponse j="m">des générateurs </reponse>
+	</question>
+	<question>
+		<intitule >Que veut dire le sigle PHE ? </intitule>
+		<reponse j="m">Petites et Habiles Entreprises</reponse>
+		<reponse j="m">Petite Hydro-Energie</reponse>
+		<reponse j="m">Petit Habitat Energétique</reponse>
+		<reponse j="b">Petite Hydro-Electricité</reponse>
+	</question>
+	<question>
+		<intitule >Une seule des réponses proposées est fausse, laquelle ? Sous forme d'énergie mécanique, l'énergie hydraulique peut être utilisée par plusieurs appareils :</intitule>
+		<reponse j="m">un moulin à eau</reponse>
+		<reponse j="m">un convertisseur de couple</reponse>
+		<reponse j="b">un alternateur</reponse>
+		<reponse j="m">une machine hydraulique</reponse>
+	</question>
+	<question>
+		<intitule >Une seule des réponses proposées est fausse, laquelle ? Sous forme d'énergie hydro-électrique, l'énergie hydraulique peut être utilisée par plusieurs appareils :</intitule>
+		<reponse j="m">une centrale hydro-électrique</reponse>
+		<reponse j="b">une éolienne offshore </reponse>
+		<reponse j="m">une centrale marémotrice</reponse>
+		<reponse j="m">une hydrolienne</reponse>
+	</question>
+	<question>
+		<intitule >Pour fonctionner, une hydrolienne utilise : </intitule>
+		<reponse j="b">l'énergie cinétique des courants marins</reponse>
+		<reponse j="m">l'énergie cinétique de l'air</reponse>
+		<reponse j="m">l'énergie potentielle des vagues</reponse>
+		<reponse j="m">l'énergie électro-magnétique</reponse>
+	</question>
+	<question>
+		<intitule >En 2007, la Norvège est le pays où la part de l'électricité produite par l'énergie hydraulique est la plus importante. Quel est ce pourcentage par rapport à la production totale d'électricité ?</intitule>
+		<reponse j="m">24 %</reponse>
+		<reponse j="m">56 %</reponse>
+		<reponse j="m">78 %</reponse>
+		<reponse j="b">98 %</reponse>
+	</question>
+	<question>
+		<intitule >Il existe différents types de centrales hydro-électriques. Dans les réponses proposées, quel type de centrale n'existe pas ?</intitule>
+		<reponse j="m">Centrales au fil de l'eau</reponse>
+		<reponse j="m">Centrales de lac</reponse>
+		<reponse j="b">Centrales marines</reponse>
+		<reponse j="m">Centrales d'éclusée</reponse>
+	</question>
+	<question>
+		<intitule >En France, quel bassin hydrographique présente le plus fort potentiel hydro-électrique ?</intitule>
+		<reponse j="m">la bassin Rhin-Meuse</reponse>
+		<reponse j="m">le bassin Loire-Bretagne</reponse>
+		<reponse j="b">le bassin Rhône-Méditerranée </reponse>
+		<reponse j="m">le bassin Adour-Garonne</reponse>
+	</question>
+	<!-- SOLAIRE -->
+	<question>
+		<intitule >L'énergie solaire photovoltaïque est une énergie électrique produite à partir :</intitule>
+		<reponse j="m">du vent</reponse>
+		<reponse j="m">de l'eau</reponse>
+		<reponse j="b">du rayonnement solaire</reponse>
+		<reponse j="m">des précipitations</reponse>
+	</question>
+	<question>
+		<intitule >Alexandre-Edmond Becquerel, qui a découvert l'effet photovoltaïque, était-il ? :</intitule>
+		<reponse j="m">anglais</reponse>
+		<reponse j="b">français</reponse>
+		<reponse j="m">américain</reponse>
+		<reponse j="m">polonais</reponse>
+	</question>
+	<question>
+		<intitule >L'effet photovoltaïque permet la transformation de l'énergie lumineuse en :</intitule>
+		<reponse j="m">gaz</reponse>
+		<reponse j="m">pétrole</reponse>
+		<reponse j="m">force motrice</reponse>
+		<reponse j="b">électricité</reponse>
+	</question>
+	<question>
+		<intitule >Quel est le nom des particules utilisées par les cellules photovoltaïques et qui sont génératrices d'électricité ?</intitule>
+		<reponse j="m">les électrons</reponse>
+		<reponse j="m">les neutrons</reponse>
+		<reponse j="m">les hadrons</reponse>
+		<reponse j="b">les photons</reponse>
+	</question>
+	<question>
+		<intitule >Une cellule photovoltaïque est composé de : </intitule>
+		<reponse j="b">silicium</reponse>
+		<reponse j="m">aluminium</reponse>
+		<reponse j="m">cuivre </reponse>
+		<reponse j="m">zinc</reponse>
+	</question>
+	<question>
+		<intitule >En terme de solaire thermique, le parc mondial connaît une croissance depuis 10 ans de :</intitule>
+		<reponse j="m">5% par an</reponse>
+		<reponse j="b">20% par an</reponse>
+		<reponse j="m">50% par an</reponse>
+		<reponse j="m">80% par an</reponse>
+	</question>
+	<question>
+		<intitule >D'ici 2020, on estime que le parc solaire thermique européen couvrira les besoins de : </intitule>
+		<reponse j="m">10 millions de foyers</reponse>
+		<reponse j="b">50 millions de foyers</reponse>
+		<reponse j="m">100 millions de foyers</reponse>
+		<reponse j="m">200 millions de foyers</reponse>
+	</question>
+	<question>
+		<intitule >Quel pays possède le parc solaire thermique le plus important ? </intitule>
+		<reponse j="b">la Chine</reponse>
+		<reponse j="m">la Suède</reponse>
+		<reponse j="m">la France</reponse>
+		<reponse j="m">le Danemark</reponse>
+	</question>
+	<question>
+		<intitule >Parmi ces 4 régions, laquelle présente le plus fort ensoleillement annuel optimal pour les capteurs solaires ? </intitule>
+		<reponse j="m">le Nord</reponse>
+		<reponse j="m">la Bretagne</reponse>
+		<reponse j="m">la région Rhône-Alpes</reponse>
+		<reponse j="b">la région Provence Alpes Côte d'Azur</reponse>
+	</question>
+	<question>
+		<intitule >Parmi ces différents types de capteurs solaires, lequel n'existe pas ? </intitule>
+		<reponse j="m">le capteur plan vitré</reponse>
+		<reponse j="m">le capteur à air</reponse>
+		<reponse j="m">le capteur sous vide</reponse>
+		<reponse j="b">le capteur étanche </reponse>
+	</question>
+	<!-- EOLIEN -->
+	<question>
+		<intitule >Une éolienne est une machine utilisant la force motrice :</intitule>
+		<reponse j="m">de l'eau</reponse>
+		<reponse j="m">animale</reponse>
+		<reponse j="b">du vent</reponse>
+		<reponse j="m">de la chaleur </reponse>
+	</question>
+	<question>
+		<intitule >Au cours de quel siècle la première éolienne « industrielle » a-t-elle été développée ?</intitule>
+		<reponse j="m">18ème siècle</reponse>
+		<reponse j="b">19ème siècle</reponse>
+		<reponse j="m">20ème siècle</reponse>
+		<reponse j="m">21ème siècle</reponse>
+	</question>
+	<question>
+		<intitule >La hauteur d'une éolienne industrielle en bout de pale (c'est-à-dire du sol au point le plus haut) peut aller de :</intitule>
+		<reponse j="m">10 à 20 mètres</reponse>
+		<reponse j="m">20 à 40 mètres</reponse>
+		<reponse j="m">60 à 100 mètres </reponse>
+		<reponse j="b">70 à 150 mètres</reponse>
+	</question>
+	<question>
+		<intitule >Quel est le pays possédant la plus grande puissance éolienne installée au monde (en 2009) ? </intitule>
+		<reponse j="b">les États-Unis</reponse>
+		<reponse j="m">l'Allemagne</reponse>
+		<reponse j="m">l'Espagne</reponse>
+		<reponse j="m">le Danemark</reponse>
+	</question>
+	<question>
+		<intitule >Qu'est-ce qu'une ZDE ?</intitule>
+		<reponse j="m">Zone de Déficit Énergétique</reponse>
+		<reponse j="m">Zone de Développement Énergétique</reponse>
+		<reponse j="m">Zone de Distribution d' Énergie</reponse>
+		<reponse j="b">Zone de Développement Éolien</reponse>
+	</question>
+	<question>
+		<intitule >La loi de Programme fixant les Orientations de la Politique Énergétique, dite loi POPE, date de :</intitule>
+		<reponse j="m">1990</reponse>
+		<reponse j="m">1995</reponse>
+		<reponse j="m">2000</reponse>
+		<reponse j="b">2005</reponse>
+	</question>
+	<question>
+		<intitule >La durée de vie d'un parc éolien est estimée à :</intitule>
+		<reponse j="m">10 ans</reponse>
+		<reponse j="b">20 ans</reponse>
+		<reponse j="m">30 ans</reponse>
+		<reponse j="m">50 ans</reponse>
+	</question>
+	<question>
+		<intitule >Selon vous, le bruit d'un éolienne est supérieur à celui :</intitule>
+		<reponse j="m">d'une voiture</reponse>
+		<reponse j="m">d'une cantine pendant le repas de midi</reponse>
+		<reponse j="m">d'un avion au décollage</reponse>
+		<reponse j="b">d'un vent léger</reponse>
+	</question>
+	<question>
+		<intitule >L'électricité produite par les éoliennes est revendue à EDF. Le tarif d'achat est fixé par :</intitule>
+		<reponse j="m">EDF elle-même</reponse>
+		<reponse j="m">le producteur</reponse>
+		<reponse j="m">l'ADEME</reponse>
+		<reponse j="b">les pouvoirs publics </reponse>
+	</question>
+	<question>
+		<intitule >Les propriétaires d'éoliennes paient la taxe professionnelle à différents organismes sauf à l'un d'entre eux, lequel :</intitule>
+		<reponse j="m">à la commune</reponse>
+		<reponse j="m">au département</reponse>
+		<reponse j="m">à la région</reponse>
+		<reponse j="b">à l'ADEME</reponse>
+	</question>
+	<question>
+		<intitule >Qu'est-ce qu'une éolienne de type Darrieus ? </intitule>
+		<reponse j="b">une éolienne verticale</reponse>
+		<reponse j="m">une éolienne située en pleine mer</reponse>
+		<reponse j="m">une éolienne horizontale</reponse>
+		<reponse j="m">une éolienne à une seule pale</reponse>
+	</question>
+	<question>
+		<intitule >En 2010, Une éolienne de type Darrieus peut fonctionner avec des vents supérieurs à : </intitule>
+		<reponse j="b">220 km/h</reponse>
+		<reponse j="m">400 km/h</reponse>
+		<reponse j="m">500 km/h </reponse>
+		<reponse j="m">700 km/h </reponse>
+	</question>
+	<question>
+		<intitule >Pour démarrer, une éolienne a besoin d'une vitesse de vent minimale de :</intitule>
+		<reponse j="m">1-5 km/h</reponse>
+		<reponse j="b">10-15 km/h</reponse>
+		<reponse j="m">40-50 km/h</reponse>
+		<reponse j="m">plus de 50 km/h</reponse>
+	</question>
+</questionnaire>

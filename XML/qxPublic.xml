@@ -1,0 +1,37 @@
+<questionnaire>
+	<question>
+		<intitule >La création d'une Zone de Développement Éolien peut être proposée par différentes entités. Parmi les réponses proposées, une seule désigne une entité qui n'a pas cette possibilité. Laquelle ?</intitule>
+		<reponse j="m">une commune</reponse>
+		<reponse j="m">plusieurs communes conjointement</reponse>
+		<reponse j="m">une EPCI (Établissement Public de Coopération Intercommunale) à fiscalité propre</reponse>
+		<reponse j="b">une association</reponse>
+	</question>
+	<question>
+		<intitule >A quel personnage la création d'une Zone de Développement Éolien est-elle proposée ?</intitule>
+		<reponse j="m">le(s) maire(s) de(s) commune(s) concernée(s)</reponse>
+		<reponse j="b">le préfet</reponse>
+		<reponse j="m">le directeur de la communauté de communes concerné</reponse>
+		<reponse j="m">le directeur de la communauté d'agglomération concerné</reponse>
+	</question>
+	<question>
+		<intitule >Quel est le rôle du comité régional éolien dans la création d'une Zone de Développement Éolien ?</intitule>
+		<reponse j="m">il donne un avis</reponse>
+		<reponse j="m">il délimite la ZDE</reponse>
+		<reponse j="m">il valide le projet</reponse>
+		<reponse j="b">il conseille et informe</reponse>
+	</question>
+	<question>
+		<intitule >Combien de jours avant son commencement une enquête publique doit être annoncée à la population ?</intitule>
+		<reponse j="m">au moins 7 jours</reponse>
+		<reponse j="b">au moins 15 jours</reponse>
+		<reponse j="m">au moins 21 jours</reponse>
+		<reponse j="m">au moins 30 jours </reponse>
+	</question>
+	<question>
+		<intitule >Dans le cadre d'un projet éolien, qui organise l'enquête publique (concertation de la population) ?</intitule>
+		<reponse j="m">le préfet</reponse>
+		<reponse j="b">le maire de la commune concernée</reponse>
+		<reponse j="m">le conseil général</reponse>
+		<reponse j="m">la communauté de communes</reponse>
+	</question>
+</questionnaire>

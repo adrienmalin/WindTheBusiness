@@ -1,0 +1,12 @@
+﻿<Repliques>
+	<Questionnaire>
+	<!-- Répliques de la phase Questionnaire -->
+		<ADEME>
+		<!-- Répliques des questions de procédure -->
+			<intro>Bienvenue à l'Agence de l'Environnement et de la Maîtrise de l'Energie (ADEME). La mission de l'ADEME est de susciter, animer, coordonner, faciliter ou réaliser des opérations ayant pour objet la protection de l'environnement et la maîtrise de l'énergie. Je vous propose de gagner une éolienne pour chaque bonne réponse. Etes-vous prêt ?</intro>
+			<correct>Très bien, vous avez gagné une éolienne de plus.</correct>
+			<faux>Désolé cher joueur c'est faux. Votre total d'éoliennes reste inchangé.</faux>
+			<fin>Parfait. Vous avez gagné %score% éoliennes. Pour plus d'informations, je vous conseille d'aller notre site internet <a href="http://www.ademe.fr/"  target="_blank" ><font color="#0000FF"><u>http://www.ademe.fr/</u></font></a> pour en savoir plus sur les énergies renouvelables. Bonne continuation pour votre projet.</fin>
+		</ADEME>
+	</Questionnaire>
+</Repliques>

@@ -1,0 +1,28 @@
+﻿<Repliques>
+	<Atelier>
+	<!-- Pour chaque contrainte dans les cartes, créer une balise avec son nom (le même que donné comme nom d'occurence dans la carte) et indiquer le texte de l'acteur à afficher. -->
+		<servRadar>Il est interdit de construire ici : il y a une servitude radar de l'Armée.</servRadar>
+		<servAero>Il est interdit de construire ici : il y a une servitude aéronautique.</servAero>
+		<tropProche>Attention les 2 éoliennes sont trop proches !</tropProche>
+		<invitation>Venez donc à la Direction Départementale des Territoires pour discuter de votre projet. Je peux vous donner la carte des servitudes juridiques.</invitation>
+	</Atelier>
+	<Questionnaire>
+	<!-- Répliques de la phase Questionnaire -->
+		<Proc>
+		<!-- Répliques des questions de procédure -->
+			<intro>Bonjour cher joueur, je suis M. Montier. Je travaille au sein de la Direction Départementale des Territoires. Nous aussi, nous intervenons dans la procédure d'obtention du permis de conduire pour les parcs éoliens, dans le cadre du respect des servitudes juridiques. Voyons un peu si vous connaissez la procédure.Si vous le voulez bien, nous allons commencer par le questionnaire de procédure de la DDT. C'est parti !</intro>
+			<correct>Tout à fait. Vous semblez être à l'aise avec cette thématique.</correct>
+			<faux>Oups, ce n'est pas la bonne réponse, la bonne est maintenant en vert.</faux>
+			<bonScore>Félicitations ! Vous avez su utiliser vos connaissances pour obtenir un bon score à ce questionnaire de procédure. Vous maitrisez le domaine et votre projet semble plus que solide. Nous sommes heureux de vous délivrer un avis favorable pour la demande de permis de construire dans le cadre de votre projet de parc éolien.</bonScore>
+			<mauvaisScore>Dommage, vous n'avez pas obtenu un score suffisant à ce questionnaire de procédure. Essayez de consolider vos connaissances pour les prochains questionnaires. Nous sommes dans l'obligation de vous donner un avis défavorable pour le projet. Néanmoins, rien n'est joué, allez donc rencontrer les autres acteurs du projet. Bon courage !</mauvaisScore>
+		</Proc>
+		<EnR>
+		<!-- Répliques des questions sur les énergies renouvelables -->
+			<intro>Vous pouvez maintenant tenter d'obtenir la carte des servitudes aéronautiques et radar. Çela pourra vous être utile dans votre projet.</intro>
+			<correct>Tout à fait. Vous semblez être à l'aise avec cette thématique.</correct>
+			<faux>Désolé cher joueur, vous ne marquez pas de points pour cette question. La réponse qu'il fallait trouver s'affiche en vert.</faux>
+			<bonScore>Félicitations ! Vous semblez maîtriser cette thématique, votre joli score est donc mérité. Grâce à votre performance, nous avons le plaisir de vous délivrer la carte d'accès. Elle permettra de révéler les zones de servitudes juridiques sur la carte-projet de votre bureau d'études.</bonScore>
+			<mauvaisScore>Aïe, vous avez obtenu un score trop faible à ce questionnaire Énergies Renouvelables. Vous ne gagnez donc pas la carte d'accès des zones de servitudes juridiques. Vous pourrez néanmoins en gagner d'autres en allant rencontrer les autres acteurs. Bon courage !</mauvaisScore>
+		</EnR>
+	</Questionnaire>
+</Repliques>

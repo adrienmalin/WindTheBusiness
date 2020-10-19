@@ -1,0 +1,449 @@
+<questionnaire>
+	<difficulte>Ingénieur des TPE</difficulte>
+	<!-- ECOCONSTRUCTION -->
+	<question>
+		<intitule>Qu'est ce qu'une brique monomur terre cuite ?</intitule>
+		<reponse j="m">C'est une brique d'argile simple</reponse>
+		<reponse j="m">C'est une brique d'argile peu isolante, mais peu coûteuse</reponse>
+		<reponse j="m">C'est une brique d'argile très résistante</reponse>
+		<reponse j="b">C'est une brique d'argile très alvéolée, très isolante, saine et limitant au maximum les ponts thermiques</reponse>
+	</question>
+	<question>
+		<intitule >Le principal inconvénient de la brique en terre cuite est :</intitule>
+		<reponse j="b">sa fragilité </reponse>
+		<reponse j="m">son énergie grise</reponse>
+		<reponse j="m">sa difficulté de mise en œuvre</reponse>
+		<reponse j="m">la rareté de sa matière première (argile)</reponse>
+	</question>
+	<question>
+		<intitule >Les briques en terre cuite sont :  </intitule>
+		<reponse j="m">moins solides qu'un parpaing classique</reponse>
+		<reponse j="m">de solidité égale</reponse>
+		<reponse j="m">un peu plus solide</reponse>
+		<reponse j="b">beaucoup plus solide qu'un parpaing classique</reponse>
+	</question>
+	<question>
+		<intitule >Dans une éco-construction, les murs des maisons en brique  n’ont pas besoin d’être isolés :</intitule>
+		<reponse j="m">car ils produisent de la chaleur</reponse>
+		<reponse j="b">car ils sont constitués d’argile et de nombreuses alvéoles</reponse>
+		<reponse j="m">car ils conservent la chaleur</reponse>
+	</question>
+	<question>
+		<intitule >La méthode HQE est basé sur combien d'objectifs ou cibles ?</intitule>
+		<reponse j="b">14</reponse>
+		<reponse j="m">7</reponse>
+		<reponse j="m">18</reponse>
+	</question>
+	<question>
+		<intitule >Qu'est-ce qu'un éco-label ?</intitule>
+		<reponse j="b">C'est un label garantissant la qualité environnementale d'un produit</reponse>
+		<reponse j="m">C'est un label garantissant la qualité de fraicheur d'un produit</reponse>
+		<reponse j="m">C'est un label garantissant la solidité d'un produit</reponse>
+		<reponse j="m">C'est un label garantissant la longue conservation d'un produit</reponse>
+	</question>
+	<question>
+		<intitule >Qu'est ce qu'une pompe à chaleur ?</intitule>
+		<reponse j="m">Dispositif qui expulse de la chaleur  pour la fournir à un bâtiment</reponse>
+		<reponse j="m">Dispositif qui puise de la chaleur à haute température pour la fournir à un bâtiment</reponse>
+		<reponse j="b">Dispositif qui prélève de la chaleur à basse température pour la fournir à un bâtiment</reponse>
+	</question>
+	<question>
+		<intitule >Qu'est-ce qu'un puits provençal/canadien ?</intitule>
+		<reponse j="m">Un système électronique visant à  réguler la température d'un bâtiment</reponse>
+		<reponse j="m">Une climatisation nouvelle génération</reponse>
+		<reponse j="b">Une système utilisant l'inertie thermique du sol servant à rafraîchir la température en été et à la préchauffer en hiver </reponse>
+		<reponse j="m">Un système originaire du Quebec visant à puiser l'eau des nappes souterraines à des profondeurs supérieures à 25 m</reponse>
+	</question>
+	<question>
+		<intitule >Quel est l'avantage principal du puits provençal/canadien ?</intitule>
+		<reponse j="b">Coût énergétique et de maintenance très faible </reponse>
+		<reponse j="m">Évacuation facile de l'air dans les conduits</reponse>
+		<reponse j="m">Les matériaux utilisé pour sa conception sont esthétiques</reponse>
+	</question>
+	<question>
+		<intitule >La réglementation thermique a pour objectif de de déterminer : </intitule>
+		<reponse j="b">le niveau maximal de consommation au delà duquel un bâtiment consomme trop</reponse>
+		<reponse j="m">le confort minimal d'un bâtiment</reponse>
+		<reponse j="m">le coût de l'habitat</reponse>
+	</question>
+	<!-- BIOMASSE-->
+	<question>
+		<intitule >Le bois-énergie est une énergie renouvelable très importante. On y brûle essentiellement des déchets issus de l'entretien de la forêt ou de l'industrie du bois. Parmi ceux-ci cherchez l'intrus :</intitule>
+		<reponse j="m">des copeaux </reponse>
+		<reponse j="b">de l'anthracite</reponse>
+		<reponse j="m">des dosses</reponse>
+		<reponse j="m">de la sciure</reponse>
+	</question>
+	<question>
+		<intitule >Valorisation de la biomasse, parmi ces inconvénients à la production de biomasse trouvez l'erreur :</intitule>
+		<reponse j="m">les coûts de transports</reponse>
+		<reponse j="b">le rendement énergétique</reponse>
+		<reponse j="m">problème de pollution atmosphérique lié à la combustion du bois</reponse>
+		<reponse j="m">la déforestation</reponse>
+	</question>
+	<question>
+		<intitule >Trouvez l'intrus parmi ces 4 types de biomasse existants ?</intitule>
+		<reponse j="m">La biomasse lignocellulosique</reponse>
+		<reponse j="m">La biomasse à glucides</reponse>
+		<reponse j="b">La biomasse à protides</reponse>
+		<reponse j="m">La biomasse oléagineuse</reponse>
+	</question>
+	<question>
+		<intitule >La biomasse pour la production d'énergie est la :</intitule>
+		<reponse j="b">1ière source d'énergie renouvelable de notre pays</reponse>
+		<reponse j="m">2ième source d'énergie renouvelable de notre pays</reponse>
+		<reponse j="m">3ième source d'énergie renouvelable de notre pays</reponse>
+		<reponse j="m">5ième source d'énergie renouvelable de notre pays</reponse>
+	</question>
+	<question>
+		<intitule >La biomasse représente en 2007 :</intitule>
+		<reponse j="m">25% de la production totale d'énergies renouvelables</reponse>
+		<reponse j="b">50% de la production totale d'énergies renouvelables</reponse>
+		<reponse j="m">75% de la production totale d'énergies renouvelables</reponse>
+	</question>
+	<question>
+		<intitule >En France, la récolte annuelle de bois est :</intitule>
+		<reponse j="b">largement inférieure à la production biologique de la forêt</reponse>
+		<reponse j="m">égale à la production biologique de la forêt</reponse>
+		<reponse j="m">légèrement supérieure à la production biologique de la forêt</reponse>
+	</question>
+	<question>
+		<intitule >Pour garantir une combustion optimale, le bois de chauffage fraichement abattu doit être stocké au minimum :</intitule>
+		<reponse j="m">1 an</reponse>
+		<reponse j="b">2 ans </reponse>
+		<reponse j="m">3 ans</reponse>
+		<reponse j="m">5 ans</reponse>
+	</question>
+	<question>
+		<intitule >Trouvez l'intrus parmi ces modes de bioconversion de la biomasse</intitule>
+		<reponse j="m">combustion</reponse>
+		<reponse j="m">méthanisation</reponse>
+		<reponse j="m">distillation</reponse>
+		<reponse j="b">incinération</reponse>
+	</question>
+	<question>
+		<intitule >Les déchets ménagers renouvelables : quel est la part de l'énergie finale produite par les usines d'incinération d'ordures ménagères qui est considérée comme renouvelable?</intitule>
+		<reponse j="m">20%</reponse>
+		<reponse j="b">50%</reponse>
+		<reponse j="m">70%</reponse>
+		<reponse j="m">100%</reponse>
+	</question>
+	<question>
+		<intitule >La biomasse peut être utilisée comme carburant, trouvez parmi ces propositions une de ces familles de biocarburants :</intitule>
+		<reponse j="m">méthanol</reponse>
+		<reponse j="m">propanol</reponse>
+		<reponse j="b">éthanol</reponse>
+		<reponse j="m">butanol</reponse>
+	</question>
+	<!-- GEOTHERMIE -->
+	<question>
+		<intitule >Quelle zone géographique française regroupe 31 opérations géothermiques permettant de chauffer et d'alimenter en eau chaude sanitaire plus de 142 000 logements ?</intitule>
+		<reponse j="m">Le bassin aquitain</reponse>
+		<reponse j="b">le bassin parisien</reponse>
+		<reponse j="m">le couloir rhodanien</reponse>
+	</question>
+	<question>
+		<intitule >Quelle est la région de France qui installe le plus de chauffe-eau solaires pour 1 000 habitants ?</intitule>
+		<reponse j="m">Aquitaine</reponse>
+		<reponse j="m">Languedoc Roussillon</reponse>
+		<reponse j="m">PACA</reponse>
+		<reponse j="b">Alsace</reponse>
+	</question>
+	<question>
+		<intitule >La géothermie de basse énergie s'opère dans une tranche de température comprise entre :</intitule>
+		<reponse j="b">30 et 150°C</reponse>
+		<reponse j="m">150°C et 300°C</reponse>
+		<reponse j="m">300 et 500°C</reponse>
+		<reponse j="m">plus de 500°C</reponse>
+	</question>
+	<question>
+		<intitule >Le premier producteur mondial de géothermie dans le monde est :</intitule>
+		<reponse j="b">Etats-Unis</reponse>
+		<reponse j="m">Indonésie</reponse>
+		<reponse j="m">Chine</reponse>
+		<reponse j="m">Islande</reponse>
+	</question>
+	<question>
+		<intitule >Trouvez l'intrus parmi ces avantages de la géothermie (toutes énergies) :</intitule>
+		<reponse j="m">elle produit peu de rejets</reponse>
+		<reponse j="m">elle ne nécessite pas de transports</reponse>
+		<reponse j="b">elle ne nécessite pas d'installations particulières</reponse>
+		<reponse j="m">elle ne nécessite pas de stockage</reponse>
+	</question>
+	<question>
+		<intitule >Le parc de centrales géothermiques le plus important d'Europe est détenu par :</intitule>
+		<reponse j="m">l'Islande</reponse>
+		<reponse j="m">l'Allemagne</reponse>
+		<reponse j="b">la Suède</reponse>
+		<reponse j="m">la France</reponse>
+	</question>
+	<question>
+		<intitule >Les capacités modernes de forage ont permis d'aller chercher les calories près du magma. Quelle est la profondeur du puits jamais creusé ?</intitule>
+		<reponse j="m">150m</reponse>
+		<reponse j="m">500m</reponse>
+		<reponse j="m">5km</reponse>
+		<reponse j="b">12 km</reponse>
+	</question>
+	<question>
+		<intitule >Quel est l'avantage principal de la géothermie très profonde à haute température ?</intitule>
+		<reponse j="m">Elle produit plus d'énergie</reponse>
+		<reponse j="b">Elle ne dépend pas des conditions atmosphériques</reponse>
+		<reponse j="m">Elle demande très peu de maintenance</reponse>
+		<reponse j="m">Elle permet un forage unique</reponse>
+	</question>
+	<question>
+		<intitule >Quelle est la durée de vie d'un gisement géothermique ?</intitule>
+		<reponse j="m">Quelques années</reponse>
+		<reponse j="m">Une dizaine d'années</reponse>
+		<reponse j="b">30 à 80 ans</reponse>
+		<reponse j="m">plus de 100 ans</reponse>
+	</question>
+	<question>
+		<intitule >Géothermie. La pompe à chaleur présente des performances intéressantes, en effet pour 1 Kwh d'énergie consommée elle restitue :</intitule>
+		<reponse j="m">2 kWh de chaleur pour le logement</reponse>
+		<reponse j="b">3 à 4 kWh de chaleur pour le logement</reponse>
+		<reponse j="m">8 à 10 kWh de chaleur pour le logement</reponse>
+		<reponse j="m">plus de 10 kWh de chaleur pour le logement</reponse>
+	</question>
+	<!-- HYDRAULIQUE -->
+	<question>
+		<intitule >En France, par rapport à la production totale d'énergie d'origine renouvelable, l'énergie hydraulique représente :</intitule>
+		<reponse j="m">10 % de la production</reponse>
+		<reponse j="m">30 % de la production</reponse>
+		<reponse j="m">60 % de la production</reponse>
+		<reponse j="b">90 % de la production</reponse>
+	</question>
+	<question>
+		<intitule >Dans le monde, les centrales hydroélectriques produisent :</intitule>
+		<reponse j="m">1/10 de l'électricité totale</reponse>
+		<reponse j="b">1/5 de l'électricité totale</reponse>
+		<reponse j="m">1/3 de l'électricité totale</reponse>
+		<reponse j="m">1/2 de l'électricité totale</reponse>
+	</question>
+	<question>
+		<intitule >Combien de mètres cubes d'eau peut contenir le barrage de la Grande-Dixence, le plus haut barrage-poids du monde ?</intitule>
+		<reponse j="m">10 millions</reponse>
+		<reponse j="m">80 millions</reponse>
+		<reponse j="b">400 millions</reponse>
+		<reponse j="m">1 milliard</reponse>
+	</question>
+	<question>
+		<intitule >En France, l'énergie hydraulique représente quel pourcentage de la production totale d'électricité (en 2009) ?</intitule>
+		<reponse j="b">14 %</reponse>
+		<reponse j="m">24 %</reponse>
+		<reponse j="m">34 %</reponse>
+		<reponse j="m">44%</reponse>
+	</question>
+	<question>
+		<intitule >En France, l'énergie hydraulique représente quel pourcentage de la production totale de l'électricité issue des énergies renouvelables (en 2009) ?</intitule>
+		<reponse j="m">35 %</reponse>
+		<reponse j="m">55 %</reponse>
+		<reponse j="m">75 %</reponse>
+		<reponse j="b">95 %</reponse>
+	</question>
+	<question>
+		<intitule >L'utilisation de l'énergie hydraulique permet de faire des économies de gaz à effet de serre . La France économise ainsi :</intitule>
+		<reponse j="b">10 % de gaz à effet de serre </reponse>
+		<reponse j="m">40 % de gaz à effet de serre</reponse>
+		<reponse j="m">60 % de gaz à effet de serre</reponse>
+		<reponse j="m">90 % de gaz à effet de serre</reponse>
+	</question>
+	<question>
+		<intitule >Quel continent est leader mondial de la production d'hydro-électricité ?</intitule>
+		<reponse j="m">l'Afrique</reponse>
+		<reponse j="m">l'Océanie</reponse>
+		<reponse j="b">l'Asie</reponse>
+		<reponse j="m">l'Amérique du Sud</reponse>
+	</question>
+	<question>
+		<intitule >Quel pays est le leader mondial en terme de production d'hydro-électricité ?</intitule>
+		<reponse j="b">la Chine</reponse>
+		<reponse j="m">la France</reponse>
+		<reponse j="m">l'Islande</reponse>
+		<reponse j="m">les États-Unis</reponse>
+	</question>
+	<question>
+		<intitule >En cas d'accident sur le réseau électrique, 8000 MégaWatts d'électricité sont mobilisables rapidement pour éviter une panne générale. Quelle est la durée permettant de passer de l'arrêt du système à sa pleine puissance ?</intitule>
+		<reponse j="m">quelques secondes</reponse>
+		<reponse j="b">quelques minutes</reponse>
+		<reponse j="m">quelques heures</reponse>
+		<reponse j="m">quelques jours</reponse>
+	</question>
+	<question>
+		<intitule >En France, la petite hydro-électricité dispose d'un potentiel de développement compris entre :</intitule>
+		<reponse j="b">2 et 3 TWh</reponse>
+		<reponse j="m">10 et 15 TWh</reponse>
+		<reponse j="m">40 et 50 TWh</reponse>
+		<reponse j="m">100 et 120 TWh</reponse>
+	</question>
+	<!-- SOLAIRE -->
+	<question>
+		<intitule >Qui a découvert l'effet photovoltaïque ?</intitule>
+		<reponse j="b">Alexandre-Edmond Becquerel</reponse>
+		<reponse j="m">Augustin Fresnel</reponse>
+		<reponse j="m">Thomas Young</reponse>
+		<reponse j="m">Max Planck</reponse>
+	</question>
+	<question>
+		<intitule >En quelle année a été découvert l'effet photovoltaïque ?</intitule>
+		<reponse j="m">1759</reponse>
+		<reponse j="b">1839</reponse>
+		<reponse j="m">1879</reponse>
+		<reponse j="m">1949</reponse>
+	</question>
+	<question>
+		<intitule >Combien de foyers français utilisent l'énergie photovoltaïque dans leur quotidien ?</intitule>
+		<reponse j="m">plus de 1 000</reponse>
+		<reponse j="m">plus de 5 000</reponse>
+		<reponse j="b">plus de 10 000</reponse>
+		<reponse j="m">plus de 50 000</reponse>
+	</question>
+	<question>
+		<intitule >Pour 10 m2, un toit photovoltaïque produit en moyenne par an :</intitule>
+		<reponse j="m">100 kWh</reponse>
+		<reponse j="m">300 kWh</reponse>
+		<reponse j="m">500 kWh</reponse>
+		<reponse j="b">1 000 kWh</reponse>
+	</question>
+	<question>
+		<intitule >Les modules photovoltaïques peuvent avoir une durée de vie de :</intitule>
+		<reponse j="m">5 ans</reponse>
+		<reponse j="m">10 ans</reponse>
+		<reponse j="m">20 ans</reponse>
+		<reponse j="b">30 ans</reponse>
+	</question>
+	<question>
+		<intitule >Quelle est la région de France qui installe le plus de chauffe-eau solaires pour 1 000 habitants ?</intitule>
+		<reponse j="m">Languedoc-Roussillon</reponse>
+		<reponse j="m">Provence Alpes Côtes d'Azur</reponse>
+		<reponse j="b">Alsace</reponse>
+		<reponse j="m">Poitou-Charentes</reponse>
+	</question>
+	<question>
+		<intitule >Quel pourcentage des besoins en eau chaude sanitaire des foyers les chauffe-eau solaires individuels (CESI) couvrent-ils ?</intitule>
+		<reponse j="m">entre 10% et 20%</reponse>
+		<reponse j="m">entre 30% et 50 %</reponse>
+		<reponse j="b">entre 50% et 80%</reponse>
+		<reponse j="m">entre 80% et 100%</reponse>
+	</question>
+	<question>
+		<intitule >D'ici 2020, quel est l'objectif du Grenelle de l'Environnement concernant le nombre de foyers équipés en terme d'équipement solaire thermique ?</intitule>
+		<reponse j="m">500 000</reponse>
+		<reponse j="m">2 000 000</reponse>
+		<reponse j="b">4 000 000</reponse>
+		<reponse j="m">6 000 000</reponse>
+	</question>
+	<question>
+		<intitule >En France, les Systèmes Solaires Combinés (SSC) couvrent quel pourcentage des besoins en eau chaude sanitaire et en chauffage des foyers ?</intitule>
+		<reponse j="b">entre 10% et 50 %</reponse>
+		<reponse j="m">entre 20% et 60%</reponse>
+		<reponse j="m">entre 30% et 70%</reponse>
+		<reponse j="m">entre 40% et 80%</reponse>
+	</question>
+	<question>
+		<intitule >Par rapport à un panneau photovoltaïque, un panneau solaire thermique a un rendement :</intitule>
+		<reponse j="m">3 fois inférieur</reponse>
+		<reponse j="m">égal</reponse>
+		<reponse j="b">3 fois supérieur</reponse>
+		<reponse j="m">6 fois supérieur</reponse>
+	</question>
+	<!-- EOLIEN -->
+	<question>
+		<intitule >Le rotor d'une éolienne contient combien de pales généralement ?</intitule>
+		<reponse j="m">1</reponse>
+		<reponse j="m">2</reponse>
+		<reponse j="b">3</reponse>
+		<reponse j="m">4</reponse>
+	</question>
+	<question>
+		<intitule >Actuellement, les éoliennes en mer peuvent être installées à des profondeurs allant jusqu'à :</intitule>
+		<reponse j="m">10 mètres</reponse>
+		<reponse j="b">30 mètres</reponse>
+		<reponse j="m">60 mètres</reponse>
+		<reponse j="m">100 mètres</reponse>
+	</question>
+	<question>
+		<intitule >En 2009, il y a environ 2400 éoliennes en France. Quelle est l'objectif fixé par le Grenelle pour 2020 ?</intitule>
+		<reponse j="m">4000 éoliennes</reponse>
+		<reponse j="m">6000 éoliennes</reponse>
+		<reponse j="b">8000 éoliennes</reponse>
+		<reponse j="m">10000 éoliennes</reponse>
+	</question>
+	<question>
+		<intitule >En pourcentage, quel est l'objectif du Grenelle de l'Environnement concernant la part de l'électricité produite par les éoliennes par rapport à la production totale ?</intitule>
+		<reponse j="m">5 %</reponse>
+		<reponse j="b">10 %</reponse>
+		<reponse j="m">20 %</reponse>
+		<reponse j="m">30 %</reponse>
+	</question>
+	<question>
+		<intitule >Combien de foyers français une éolienne d'une puissance de 2 mégawatts peut-elle alimenter (hors chauffage électrique) ?</intitule>
+		<reponse j="m">500</reponse>
+		<reponse j="m">1000</reponse>
+		<reponse j="b">2000</reponse>
+		<reponse j="m">5000</reponse>
+	</question>
+	<question>
+		<intitule >Quelle est le pourcentage des départements d'outre-mer dans la puissance raccordée du parc éolien français, en 2009 ?</intitule>
+		<reponse j="b">0,8 %</reponse>
+		<reponse j="m">10,8 %</reponse>
+		<reponse j="m">20,8 %</reponse>
+		<reponse j="m">30,8 %</reponse>
+	</question>
+	<question>
+		<intitule >Combien de parcs éoliens y a-t-il en France, au 01/03/2010 ?</intitule>
+		<reponse j="m">279</reponse>
+		<reponse j="b">479</reponse>
+		<reponse j="m">679</reponse>
+		<reponse j="m">879</reponse>
+	</question>
+	<question>
+		<intitule >Quelle est la distance minimale règlementaire qu'il doit y avoir entre les habitations et les éoliennes ?</intitule>
+		<reponse j="m">100 m</reponse>
+		<reponse j="m">200 m</reponse>
+		<reponse j="b">500 m</reponse>
+		<reponse j="m">1 km</reponse>
+	</question>
+	<question>
+		<intitule >Combien d'euros, par an et par éolienne, touchent les propriétaires de terrains où sont implantées des éoliennes (en 2009) ?</intitule>
+		<reponse j="b">2000 à 3000 euros</reponse>
+		<reponse j="m">5000 à 6000 euros</reponse>
+		<reponse j="m">10000 à 12000 euros</reponse>
+		<reponse j="m">20000 à 25000 euros</reponse>
+	</question>
+	<question>
+		<intitule >Pour une éolienne d'un mégawatt, la taxe professionnelle perçue par le département représente par an (en 2009) :</intitule>
+		<reponse j="m">2000 euros</reponse>
+		<reponse j="b">6000 euros</reponse>
+		<reponse j="m">10000 euros</reponse>
+		<reponse j="m">14000 euros</reponse>
+	</question>
+	<question>
+		<intitule >Quel est le principal inconvénient des éoliennes à axe vertical de type Darrieus ?</intitule>
+		<reponse j="b">Elle a un plus faible rendement</reponse>
+		<reponse j="m">Elle est plus encombrante</reponse>
+		<reponse j="m">Elle est plus fragile face aux rigueurs de la météo</reponse>
+		<reponse j="m">Elle ne s'oriente pas face aux vents</reponse>
+	</question>
+	<question>
+		<intitule >Quel est le principal avantage des éoliennes à axe vertical de type Darrieus ?</intitule>
+		<reponse j="m">Elle démarre plus rapidement qu'une éolienne classique</reponse>
+		<reponse j="b">Elle est plus économique</reponse>
+		<reponse j="m">Elle est plus légère qu'une éolienne classique</reponse>
+		<reponse j="m">Elle s'insère mieux dans le paysage</reponse>
+	</question>
+	<question>
+		<intitule >En 2010, dans l'état actuel des technologies, l'énergie grise correspond à :</intitule>
+		<reponse j="m">3 à 6 mois de sa production d'énergie</reponse>
+		<reponse j="b">6 à 9 mois de sa production d'énergie</reponse>
+		<reponse j="m">9 à 12 mois de sa production d'énergie</reponse>
+		<reponse j="m">12 à 15 mois de sa production d'énergie</reponse>
+	</question>
+	<question>
+		<intitule >En France, une éolienne d'une puissance de 2 Mégawatts fourni en moyenne par an :</intitule>
+		<reponse j="m">2200 Mégawattheures</reponse>
+		<reponse j="b">4400 Mégawattheures</reponse>
+		<reponse j="m">6600 Mégawattheures</reponse>
+		<reponse j="m">8800 Mégawattheures</reponse>
+	</question>
+</questionnaire>
